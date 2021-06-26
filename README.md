@@ -1,3 +1,5 @@
+**************************************************************
+
 SocialGoal v1.0.0
 ================
 [![alt text](http://www.marlabs.com/sites/default/files/logo.png "Marlabs")](http://www.marlabs.com)
@@ -7,7 +9,7 @@ SocialGoal is a social networking web app for socializing your goals and strateg
 
 Technologies
 ------------
-* ASP.NET MVC 5
+	* ASP.NET MVC 5
 * EF 6 Code First 
 * AutoMapper
 * Autofac
